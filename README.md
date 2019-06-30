@@ -12,11 +12,11 @@ Contiene los fundamentos de GIT.
 
 Estas carpetas contienen los ejercicios realizados en esta sección.
 
-## README GitHub Básico
+## README GitHub Básico y Avanzado
 
 Contiene el uso de GitHub Básico
 
-### DEMO-09 - 10
+### DEMO-09 - 12
 
 Estas carpetas contienen los ejercicios realizados en esta sección.
 
