@@ -16,6 +16,10 @@ Estas carpetas contienen los ejercicios realizados en esta sección.
 
 Contiene el uso de GitHub Básico
 
+### Diferencia entre RELEASE y TAGS
+
+Un release nos permite compartir compartir archivos binarios sin que github lo revise y los tags podemos proveer información adicional.
+
 ### DEMO-09 - 12
 
 Estas carpetas contienen los ejercicios realizados en esta sección.
