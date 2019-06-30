@@ -18,7 +18,7 @@ Contiene el uso de GitHub Básico
 
 ### Diferencia entre RELEASE y TAGS
 
-Un release nos permite compartir compartir archivos binarios sin que github lo revise y los tags podemos proveer información adicional.
+Un release nos permite dar pistas o más información de como funciona una versión de producción y los tags podemos proveer de menos información.
 
 ### DEMO-09 - 12
 
