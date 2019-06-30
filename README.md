@@ -23,3 +23,5 @@ Estas carpetas contienen los ejercicios realizados en esta sección.
 # MarkDown
 
 [Ir al tutorial de MarkDown](https://www.markdowntutorial.com/)
+
+[Si tenemos el curso mencionado arriba](https://www.udemy.com/git-github/learn/lecture/7389770#questions)
