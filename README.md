@@ -2,6 +2,8 @@
 
 En este repositorio tendremos unas notas sobre nuestro curso de GIT.
 
+[Este fue el curso a seguir](https://www.udemy.com/git-github/)
+
 ## README GIT
 
 Contiene los fundamentos de GIT.
