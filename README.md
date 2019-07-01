@@ -24,6 +24,12 @@ Un **release** nos permite dar pistas o más información de como funciona una v
 
 Puedo notificar a todos los colaboradores del repositorio algún problema.
 
+### MileStone
+
+Son grupos de Issues, características o una fecha dentro de un periodo de tiempo.
+
+Nos ayudan a agrupar los Issues
+
 ### DEMO-09 - 12
 
 Estas carpetas contienen los ejercicios realizados en esta sección.
