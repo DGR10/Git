@@ -18,13 +18,17 @@ Contiene el uso de GitHub Básico
 
 ### Diferencia entre RELEASE y TAGS
 
-Un release nos permite dar pistas o más información de como funciona una versión de producción y los tags podemos proveer de menos información.
+Un **release** nos permite dar pistas o más información de como funciona una versión de producción y los **tags** podemos proveer de menos información.
+
+### Issues
+
+Puedo notificar a todos los colaboradores del repositorio algún problema.
 
 ### DEMO-09 - 12
 
 Estas carpetas contienen los ejercicios realizados en esta sección.
 
-# MarkDown
+## MarkDown
 
 [Ir al tutorial de MarkDown](https://www.markdowntutorial.com/)
 
