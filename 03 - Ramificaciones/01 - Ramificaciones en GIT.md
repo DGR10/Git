@@ -45,3 +45,9 @@ Si hay conflictos deberemos resolverlos manualmente.
 ```
 
 Donde nos dice que la versión en HEAD (la rama master, la que habías activado antes de lanzar el comando de fusión) contiene lo indicado en la parte superior del bloque (todo lo que está encima de =======) y que la versión en iss53 contiene el resto, lo indicado en la parte inferior del bloque. 
+
+## Borrar una rama
+
+```
+$ git branch -d [nombreRama]
+```
