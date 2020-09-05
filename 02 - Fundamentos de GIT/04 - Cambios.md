@@ -13,6 +13,10 @@ __git diff__ muestra las lineas exactas que fueron añadidas y eliminadas.
 
 __git diff --cached_ sirve para ver que has preparado hasta ahora (--staged y --cached son sinónimos)
 
+```
+$ git diff --word-diff (Intenta comparar palabras y no líneas)
+```
+
 ## Confirmar tus cambios
 
 Ahora que tu área de preparación está como quieres, puedes confirmar tus cambios. Recuerda que cualquier cosa que no esté preparada - cualquier archivo que hayas creado o modificado y que no hayas agregado con git add desde su edición - no será confirmado.
